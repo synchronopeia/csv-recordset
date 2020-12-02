@@ -1,6 +1,6 @@
 /* eslint-disable import/extensions */
 
-import ContextAssert from '@synchronopeia/context-assert/index.mjs';
+import ContextAssert from '@synchronopeia/context-assert';
 
 const assert = new ContextAssert();
 

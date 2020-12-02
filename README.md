@@ -1,4 +1,4 @@
-# CSV--Recordset
+# CSV-Recordset
 
 Incorporate CSV's into a semi-structured-data workflow by using a simple schema.
 

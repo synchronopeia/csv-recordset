@@ -1,8 +1,8 @@
 {
   "name": "@synchronopeia/csv-recordset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Table--Dataset Interop With Barley Enough Schema Enforcement",
-  "main": "index.js",
+  "main": "index.mjs",
   "engines": {
     "node": ">=13.2.0"
   },
@@ -34,6 +34,6 @@
     "eslint-plugin-import": "2.22.1"
   },
   "dependencies": {
-    "@synchronopeia/context-assert": "0.1.0"
+    "@synchronopeia/context-assert": "0.1.1"
   }
 }
